@@ -11,7 +11,9 @@
 // })
 
 import generateName from "sillyname"
+import { randomSuperhero } from 'superheroes'
 
 const sillyName = generateName();
+const superMe  = randomSuperhero()
 
-console.log(`My name is ${sillyName}`)
+console.log(`My name is ${sillyName} but my super hero name is ${superMe}`)
