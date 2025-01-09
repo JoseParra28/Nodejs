@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/JoseParra28/NodeJS#readme",
   "dependencies": {
+    "enquirer": "^2.4.1",
+    "inquirer": "^12.3.0",
+    "qr-image": "^3.2.0",
     "sillyname": "^0.1.0",
     "superheroes": "^4.0.0"
   }
